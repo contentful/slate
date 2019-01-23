@@ -7170,9 +7170,63 @@ slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
 
+slate-base64-serializer@^0.2.94:
+  version "0.2.94"
+  resolved "https://registry.yarnpkg.com/slate-base64-serializer/-/slate-base64-serializer-0.2.94.tgz#b908c3af481b9a0ead78f313653414c4b2b4b2d5"
+  dependencies:
+    isomorphic-base64 "^1.0.2"
+
+slate-dev-environment@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/slate-dev-environment/-/slate-dev-environment-0.2.1.tgz#760f500f18af0dc61bcae39eec4160c420fea537"
+  dependencies:
+    is-in-browser "^1.1.3"
+
+slate-dev-test-utils@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/slate-dev-test-utils/-/slate-dev-test-utils-0.0.1.tgz#c6bb25ad5a7e08a8e307a23c651c83a238abb483"
+
+slate-hotkeys@^0.2.8:
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/slate-hotkeys/-/slate-hotkeys-0.2.8.tgz#7fecf732c512c860113f3f1a6dc1015df9d130a7"
+  dependencies:
+    is-hotkey "0.1.4"
+    slate-dev-environment "^0.2.1"
+
+slate-hyperscript@^0.11.24:
+  version "0.11.24"
+  resolved "https://registry.yarnpkg.com/slate-hyperscript/-/slate-hyperscript-0.11.24.tgz#6492e7cee23fa1f6167cc2980a5f51c61308e761"
+  dependencies:
+    is-plain-object "^2.0.4"
+
+slate-plain-serializer@^0.6.33:
+  version "0.6.33"
+  resolved "https://registry.yarnpkg.com/slate-plain-serializer/-/slate-plain-serializer-0.6.33.tgz#b731ecd8757f0d402ab36823f4be641c3f11a229"
+
+slate-prop-types@^0.5.24:
+  version "0.5.24"
+  resolved "https://registry.yarnpkg.com/slate-prop-types/-/slate-prop-types-0.5.24.tgz#ecff6584e250d88ff8384ff2bd820eec7d296913"
+
+slate-react-placeholder@^0.1.12:
+  version "0.1.12"
+  resolved "https://registry.yarnpkg.com/slate-react-placeholder/-/slate-react-placeholder-0.1.12.tgz#d09936acf1570f9178d3a40a56ff0616f67e1fd7"
+
 slate-simulator@^0.4.67:
   version "0.4.67"
   resolved "https://registry.yarnpkg.com/slate-simulator/-/slate-simulator-0.4.67.tgz#9313c84736db1e23d6aebacd536f582b6d54723c"
+
+slate@^0.44.9:
+  version "0.44.9"
+  resolved "https://registry.yarnpkg.com/slate/-/slate-0.44.9.tgz#0fc9ba9f08b379b86c4c0a1ddebbe6bf28aa3c4b"
+  dependencies:
+    debug "^3.1.0"
+    direction "^0.1.5"
+    esrever "^0.2.0"
+    is-plain-object "^2.0.4"
+    lodash "^4.17.4"
+    tiny-invariant "^1.0.1"
+    tiny-warning "^0.0.3"
+    type-of "^2.0.1"
 
 slice-ansi@1.0.0:
   version "1.0.0"
