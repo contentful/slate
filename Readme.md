@@ -173,8 +173,6 @@ Slate's codebase is monorepo managed with [Lerna](https://lernajs.io/). It consi
 
 <br />
 
-### Contributing!
-
-All contributions are super welcome! Check out the [Contributing instructions](./Contributing.md) for more info!
+Current fork exist as a temporary measure before #2535 and #2526 merged to the upstream.
 
 Slate is [MIT-licensed](./License.md).
