@@ -1,5 +1,5 @@
 {
-  "name": "slate-hyperscript",
+  "name": "@contentful/slate-hyperscript",
   "description": "A hyperscript helper for creating Slate documents.",
   "version": "0.11.24",
   "license": "MIT",

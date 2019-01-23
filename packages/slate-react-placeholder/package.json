@@ -1,5 +1,5 @@
 {
-  "name": "slate-react-placeholder",
+  "name": "@contentful/slate-react-placeholder",
   "description": "A Slate plugin to render a placeholder with React.",
   "version": "0.1.12",
   "license": "MIT",

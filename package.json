@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "slate-packages",
+  "name": "@contentful/slate-packages",
   "workspaces": [
     "packages/*"
   ],
